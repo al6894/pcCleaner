@@ -4,6 +4,9 @@ empty common areas of junk files such as in %temp%. Users can simply boot up the
 choose to run one bat file or all at the click of a button. 
 
 ## Features 
-[x] Clears %temp%
+- [x] Clears %temp%
+- [] Clears Recycle Bin
+- [] Search for leftover registry entries
+- [] Search for leftover folders
 
-[] Clears Recycle Bin
+## Notes
