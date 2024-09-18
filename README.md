@@ -5,7 +5,7 @@ choose to run one bat file or all at the click of a button.
 
 ## Features 
 - [x] Clears %temp%
-- [] Clears Recycle Bin
+- [x] Clears Recycle Bin
 - [] Search for leftover registry entries
 - [] Search for leftover folders
 
